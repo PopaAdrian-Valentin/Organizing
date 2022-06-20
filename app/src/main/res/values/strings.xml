@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Organizing</string>
+    <string name="sold">121</string>
+    <string name="CategoryName">Category Name</string>
+    <string name="CurrencyName">Currency Name</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+</resources>
